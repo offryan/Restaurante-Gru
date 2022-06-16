@@ -1,2 +1,2 @@
 # Restaurante-Gru
-Site de Restaurante usando HTML | CSS - Ainda falta por no responsivo.
+Site de Restaurante usando HTML | CSS - Responsivo
